@@ -1,0 +1,12 @@
+##### Git Collections.
+https://github.com/k88hudson/git-flight-rules
+
+##### How to label in github.com
+https://help.github.com/en/articles/about-labels
+
+Labels on GitHub help you organize and prioritize your work. You 
+can apply labels to issues and pull requests to signify priority, 
+category, or any other information you find useful.
+
+Automate the label on github.com.
+https://github.com/Phonbopit/github-labels
